@@ -86,7 +86,7 @@
 
 
 ## 📑 Api 명세서
-### [Api 명세서 보기](https://mapapi.donggeun.co.kr/api-docs/)
+### [Api 명세서 보기](./api/index.html)
 
 
 ## 🛠 MP 릴리즈 노트
