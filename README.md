@@ -2,7 +2,7 @@
 
 한 해를 기억하면 추억을 지도에 기록해보세요. 다양한 추억을 기록해 보고 링크를 공유해 자랑해 보세요
 <br><br>
-[ 서비스 종료 ] : ~~[추억지도 접속하기](https://map.donggeun.co.kr/map)~~
+[ 서비스 종료 ] : ~~[추억지도 접속하기](https://mp.donggeun.co.kr/map)~~
 
 <br><br>
 # Git Repo
