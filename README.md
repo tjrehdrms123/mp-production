@@ -2,13 +2,12 @@
 
 한 해를 기억하면 추억을 지도에 기록해보세요. 다양한 추억을 기록해 보고 링크를 공유해 자랑해 보세요
 <br><br>
-## [추억지도 접속하기](https://map.donggeun.co.kr/map)
+## [추억지도 접속하기](https://mp.donggeun.co.kr/map)
 
 <br><br>
 # Git Repo
 ## [Frontend GIT](https://github.com/tjrehdrms123/mp-client)
 ## [Backend GIT](https://github.com/tjrehdrms123/mp-server)
-## [Server GIT](https://github.com/tjrehdrms123/mp-cloudserver)
 <br><br>
 
 # 📖 목차 
@@ -74,19 +73,11 @@
 
 **인프라** 
  - AWS EC2
- - AWS RDS
  - Docker
  - Docker Compose
 
 ## 시스템 아키텍처
 ![시스템 아키텍처](./images/system.png)
-
-## E-R 다이어그램
-![ERD](./images/erd.png)
-
-
-## 📑 Api 명세서
-### [Api 명세서 보기](./api/index.html)
 
 
 ## 🛠 MP 릴리즈 노트
