@@ -38,6 +38,7 @@
     <li>애드핏 광고 1개 > 4개로 변경</li>
   </ul>
 </div>
+<details>
 <summary> MP v1.3.0 릴리즈 보기</summary>
 <div markdown="1">       
   <ul>
