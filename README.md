@@ -5,8 +5,8 @@
 
 <br/>
 
-# ✨ 서비스 페이지
-서비스 종료 : ~~[https://mp.donggeun.co.kr/map](https://mp.donggeun.co.kr/map)~~
+# ✨ 데모 페이지
+[https://mp.donggeun.co.kr/map](https://mp.donggeun.co.kr/map)
 
 <br/>
 
@@ -36,6 +36,13 @@
     <li>요청 Body 사이즈 기존 5M > 10M로 변경</li>
     <li>회원가입 여부에 따라 활성화 버튼 변경</li>
     <li>애드핏 광고 1개 > 4개로 변경</li>
+  </ul>
+</div>
+<summary> MP v1.3.0 릴리즈 보기</summary>
+<div markdown="1">       
+  <ul>
+    <li>회원가입시 이메일 인증 제거</li>
+    <li>회원 지도에 비회원이 글 작성 가능하도록 수정</li>
   </ul>
 </div>
 </details>
